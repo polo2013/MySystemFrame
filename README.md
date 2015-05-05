@@ -15,4 +15,4 @@ Quick Start：
 
 5) 框架内含有系统登录、人员管理等模块，具备了基本的增、删、改、查的功能，因此可复制已有的模块来进行快速的开发。
 
-![捐助](./Public/alipay.png)
+![捐助](https://github.com/polo2013/MySystemFrame/blob/master/Public/alipay.png)
