@@ -17,4 +17,4 @@ Quick Start：
 
 
 
-![捐助](https://github.com/polo2013/MySystemFrame/blob/master/Public/alipay.png)
+![捐助](https://github.com/polo2013/MySystemFrame/raw/master/Public/alipay.png)
